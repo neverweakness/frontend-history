@@ -2,6 +2,8 @@
 
 Учебный проект: страница с поиском видео из «окон» разных городов. Данные подгружаются с учебного API, результаты отображаются карточками, выбранное видео воспроизводится на странице.
 
+**Демо:** https://neverweakness.github.io/frontend-history/02-posmotri-v-okno/
+
 ## Возможности
 
 - Форма поиска с фильтрами (город, время суток) и запросом к API.
@@ -18,7 +20,8 @@ HTML5, CSS3 (grid), чистый JavaScript. Без сборщиков и зав
 Откройте `index.html` в браузере. Для загрузки данных нужен доступ в интернет, так как используется внешний учебный API.
 
 ```bash
-git clone https://github.com/neverweakness/posmotri_v_okno.git
+git clone https://github.com/neverweakness/frontend-history.git
+cd frontend-history/02-posmotri-v-okno
 ```
 
 ## Структура
@@ -33,3 +36,5 @@ fonts/            — Oswald, Fira Sans Condensed
 ## Заметки
 
 Проект сделан в ноябре 2023: практика DOM, шаблонов и асинхронных запросов.
+
+> Проект перенесён из отдельного репозитория [posmotri_v_okno](https://github.com/neverweakness/posmotri_v_okno) в архив ранних работ [frontend-history](https://github.com/neverweakness/frontend-history) с сохранением истории коммитов.

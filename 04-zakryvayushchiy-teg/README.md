@@ -2,6 +2,8 @@
 
 Учебный проект: адаптивный лендинг вымышленного медиа о фронтенде «Закрывающий тег» с ретро-стилем (шрифт Press Start 2P), анимациями и переключением тем.
 
+**Демо:** https://neverweakness.github.io/frontend-history/04-zakryvayushchiy-teg/
+
 ## Возможности
 
 - Три темы оформления: светлая, тёмная, авто; выбор сохраняется в `localStorage`.
@@ -15,10 +17,11 @@ HTML5, CSS3 (custom properties, animations, grid), чистый JavaScript.
 
 ## Запуск
 
-Откройте `index.html` в браузере:
+Откройте `index.html` в браузере (после клонирования):
 
 ```bash
-git clone https://github.com/neverweakness/zakrivayuschiy-teg-f.git
+git clone https://github.com/neverweakness/frontend-history.git
+cd frontend-history/04-zakryvayushchiy-teg
 ```
 
 ## Структура
@@ -34,3 +37,5 @@ images/, svg/         — графика (в т.ч. оптимизированн
 ## Заметки
 
 Проект сделан в феврале–марте 2024: самая большая по объёму вёрстка из учебных работ, практика тем, анимаций и оптимизации графики.
+
+> Проект перенесён из отдельного репозитория [zakrivayuschiy-teg-f](https://github.com/neverweakness/zakrivayuschiy-teg-f) в архив ранних работ [frontend-history](https://github.com/neverweakness/frontend-history) с сохранением истории коммитов.

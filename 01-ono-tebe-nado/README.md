@@ -2,6 +2,8 @@
 
 Учебный проект по вёрстке: одностраничный лендинг вымышленного аукциона «Оно тебе надо — аукцион вещей, в которые никто не верил».
 
+**Демо:** https://neverweakness.github.io/frontend-history/01-ono-tebe-nado/
+
 ## Что внутри
 
 - Шапка с навигацией и обложка-баннер.
@@ -18,7 +20,8 @@ HTML5 и CSS3, без сборщиков и фреймворков.
 Клонируйте репозиторий и откройте `index.html` в браузере:
 
 ```bash
-git clone https://github.com/neverweakness/ono-tebe-nado.git
+git clone https://github.com/neverweakness/frontend-history.git
+cd frontend-history/01-ono-tebe-nado
 ```
 
 ## Структура
@@ -34,3 +37,5 @@ images/         — обложка, карточки, логотипы, икон
 ## Заметки
 
 Проект сделан в октябре 2023 в рамках учебной программы: практика семантической вёрстки по макету. Автопроверка вёрстки запускается в GitHub Actions при каждом пуше.
+
+> Проект перенесён из отдельного репозитория [ono-tebe-nado](https://github.com/neverweakness/ono-tebe-nado) в архив ранних работ [frontend-history](https://github.com/neverweakness/frontend-history) с сохранением истории коммитов.
