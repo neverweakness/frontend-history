@@ -17,11 +17,7 @@
 
 ## Что дальше
 
-Проекты, которые выросли из этих практик, лежат отдельно:
-
-- [Mesto](https://github.com/neverweakness/mesto-project-ff) — приложение на JavaScript с Webpack и работой с API ([демо](https://neverweakness.github.io/mesto-project-ff/)).
-- [Movie App](https://github.com/neverweakness/movie-app) — поиск фильмов через API Кинопоиска.
-- [VK Music Downloader](https://github.com/neverweakness/vk-music-downloader) — расширение для браузера.
+Новые проекты лежат в отдельных репозиториях, например [VK Music Downloader](https://github.com/neverweakness/vk-music-downloader) — расширение для браузера.
 
 ## Происхождение
 
