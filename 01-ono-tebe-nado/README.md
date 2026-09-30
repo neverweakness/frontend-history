@@ -38,4 +38,4 @@ images/         — обложка, карточки, логотипы, икон
 
 Проект сделан в октябре 2023 в рамках учебной программы: практика семантической вёрстки по макету. Автопроверка вёрстки запускается в GitHub Actions при каждом пуше.
 
-> Проект перенесён из отдельного репозитория [ono-tebe-nado](https://github.com/neverweakness/ono-tebe-nado) в архив ранних работ [frontend-history](https://github.com/neverweakness/frontend-history) с сохранением истории коммитов.
+> Проект входит в архив ранних работ [frontend-history](https://github.com/neverweakness/frontend-history); история коммитов сохранена.

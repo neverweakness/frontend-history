@@ -23,11 +23,7 @@
 - [Movie App](https://github.com/neverweakness/movie-app) — поиск фильмов через API Кинопоиска.
 - [VK Music Downloader](https://github.com/neverweakness/vk-music-downloader) — расширение для браузера.
 
-## Происхождение
-
-Ранее каждый лендинг был отдельным репозиторием (`ono-tebe-nado`, `posmotri_v_okno`, `slozhno-sosredotochitsya`, `zakrivayuschiy-teg-f`). Они перенесены сюда через `git subtree` с полной историей; старые репозитории заархивированы.
-
-## Запуск
+## Происхождение`n`nРанее каждый лендинг был отдельным репозиторием. Они собраны здесь через `git subtree` с полной историей коммитов.`n`n## Запуск
 
 Проекты статические, сборка не нужна:
 

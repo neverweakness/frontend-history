@@ -37,4 +37,4 @@ fonts/            — Oswald, Fira Sans Condensed
 
 Проект сделан в ноябре 2023: практика DOM, шаблонов и асинхронных запросов.
 
-> Проект перенесён из отдельного репозитория [posmotri_v_okno](https://github.com/neverweakness/posmotri_v_okno) в архив ранних работ [frontend-history](https://github.com/neverweakness/frontend-history) с сохранением истории коммитов.
+> Проект входит в архив ранних работ [frontend-history](https://github.com/neverweakness/frontend-history); история коммитов сохранена.

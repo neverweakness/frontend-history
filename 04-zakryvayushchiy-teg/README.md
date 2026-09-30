@@ -38,4 +38,4 @@ images/, svg/         — графика (в т.ч. оптимизированн
 
 Проект сделан в феврале–марте 2024: самая большая по объёму вёрстка из учебных работ, практика тем, анимаций и оптимизации графики.
 
-> Проект перенесён из отдельного репозитория [zakrivayuschiy-teg-f](https://github.com/neverweakness/zakrivayuschiy-teg-f) в архив ранних работ [frontend-history](https://github.com/neverweakness/frontend-history) с сохранением истории коммитов.
+> Проект входит в архив ранних работ [frontend-history](https://github.com/neverweakness/frontend-history); история коммитов сохранена.

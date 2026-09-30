@@ -38,4 +38,4 @@ images/              — иллюстрации, favicon
 
 Проект сделан в декабре 2023 – феврале 2024: практика CSS-переменных, тем оформления и адаптивной вёрстки.
 
-> Проект перенесён из отдельного репозитория [slozhno-sosredotochitsya](https://github.com/neverweakness/slozhno-sosredotochitsya) в архив ранних работ [frontend-history](https://github.com/neverweakness/frontend-history) с сохранением истории коммитов.
+> Проект входит в архив ранних работ [frontend-history](https://github.com/neverweakness/frontend-history); история коммитов сохранена.
