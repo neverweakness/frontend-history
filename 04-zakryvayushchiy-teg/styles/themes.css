@@ -1,0 +1,61 @@
+/* В этом файле вы опишете значения переменных в разных цветовых схемах.
+Придерживайтесь такого именования классов:
+✦ theme-dark — класс тёмной темы
+✦ theme-light — класс светлой темы
+✦ не забудьте описать стили для изменения темы через медизапрос пользовательских предпочтений
+*/
+@media (prefers-color-scheme: light) {
+  :root {
+    --background-color: #d3d3d3;
+    --background-color-start: #e7e7e7;
+    --background-color-end: #1a1a1a;
+    --background-color-card: #FFFFFF;
+    --text-color: #000000;
+    --border-card-color: var(--text-color);
+    --label-color: var(--background-color-card);
+    --blend-color: var(--background-color-card);
+    --title-font-weight: "wght" 700;
+    --text-font-weight: "wght" 400;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background-color: #000;
+    --background-color-start: #007f0c;
+    --background-color-end: #004306;
+    --background-color-card: #000000;
+    --text-color: #00CC14;
+    --border-card-color: var(--text-color);
+    --label-color: var(--background-color-card);
+    --blend-color: var(--text-color);
+    --title-font-weight: "wght" 785;
+    --text-font-weight: "wght" 465;
+  }
+}
+
+:root.theme-light {
+  --background-color: #d3d3d3;
+  --background-color-start: #e7e7e7;
+  --background-color-end: #1a1a1a;
+  --background-color-card: #FFFFFF;
+  --text-color: #000000;
+  --border-card-color: var(--text-color);
+  --label-color: var(--background-color-card);
+  --blend-color: var(--background-color-card);
+  --title-font-weight: "wght" 700;
+  --text-font-weight: "wght" 400;
+}
+
+:root.theme-dark {
+  --background-color: #000;
+  --background-color-start: #007f0c;
+  --background-color-end: #004306;
+  --background-color-card: #000000;
+  --text-color: #00CC14;
+  --border-card-color: var(--text-color);
+  --label-color: var(--background-color-card);
+  --blend-color: var(--text-color);
+  --title-font-weight: "wght" 785;
+  --text-font-weight: "wght" 465;
+}
